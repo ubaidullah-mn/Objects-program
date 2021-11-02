@@ -213,11 +213,85 @@
 //document.write("Welcome " + name + "<br>" )
 //     CHAP END
 //     chap 9-11: 
-//var userCity = +prompt("Enter your City")
-
-//if(userCity == karachi){
- // document.write("Welcome to the city of lights")
+//      ques 1:
+//var city = prompt ("Enter your city") ;
+//if(city == "karachi"){
+  //alert("Welcome to the city of lights")
 //}
 //else{
-//  document.write("Welcome")
+ // alert("Welcome")
 //}
+//    ques 2:
+//var userGender = prompt ("Enter your Gender")
+//if( userGender == "male" ){
+//alert("Good Morning Sir!")
+//}
+//else if( userGender == "female" ){
+ // alert("Good Morning Maam!")
+ // }
+//else{
+ //alert("Please enter correct gender!")
+//}
+//      ques 3:
+//var light = prompt ("Enter Signal light")
+//if( light == "Red" ){
+//alert("Must stop")
+//}
+//else if( light == "Yellow" ){
+ // alert("Ready to move")
+ // }
+ // else if( light == "Green" ){
+ //   alert("Move now")
+ //   }
+//else{
+ //alert("Please enter correct light!")
+//}
+//     ques 4:
+//var fuel = prompt ("Enter your fuel in liters")
+//if( fuel == 0.25 ){
+//alert("Please refill your fuel")
+//}
+//else if( fuel > 0.25 ){
+//  alert("You have much fuel")
+//  }
+//else{
+//alert("please enter correct fuel!")
+// }
+///    ques 10:
+//var T = prompt ("Please Enter the Temperature")
+//if( T > 40 ){
+//alert("It is too hot outside")
+//}
+//else if( T > 30 ){
+ // alert("The Weather today is Normal")
+ // }
+ // else if( T > 20 ){
+ //   alert("Today’s Weather is cool")
+ //   }
+ //   else if( T > 10 ){
+ //     alert("OMG! Today’s weather is so Cool.")
+ //     }    
+//else{
+//alert("please enter correct Temperature!")
+ //}
+//     ques 11:
+//var num1 = +prompt("Enter number 1")
+//var opt = prompt("Enter opt")
+//var num2 = +prompt("Enter number 2")
+
+//if(opt === "+"){
+ // alert(num1 + num2)
+//}
+//else if(opt === "-"){
+ // alert(num1 - num2)
+//}
+//else if(opt === "*"){
+ // alert(num1 * num2)
+//}
+//else if(opt === "/"){
+ // alert(num1 / num2)
+//}
+//else{
+ // alert("invalid opt")
+//}
+//  Chap END
